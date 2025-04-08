@@ -14,4 +14,4 @@ What’s one thing you’re proud of?
 **The fact that I wanted to do a lot, but I didn't let scope creep get to me. I started with a small game and slowly added different pieces to it which helped me have a product to turn in if one of the additions didn't work.**
 
 What’s one thing you’d improve with more time?
-**I would switch the Python over to JS and maybe add some more fun games. Also delete system42 if you lose all the money.**
+**I would switch the Python over to JS and maybe add some more fun games. Also delete system32 if you lose all the money.**
